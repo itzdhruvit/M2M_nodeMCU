@@ -1,0 +1,19 @@
+
+worst Scenerio 1
+# What if node communicating to router hangs? >> search for watch.reset command
+>> After x attempts send message to main server.
+
+# Study on Interrupts
+# Is RTC available? >> may be blynk can cumminicate with each node(night time) 
+
+# let's assume power is ALWAYS ON.
+
+$$ Features and Limitations
+
+# Data should be displayed live or x hours
+# Minimum lag to live data >> TODO
+
+# Network time syncing
+
+
+
