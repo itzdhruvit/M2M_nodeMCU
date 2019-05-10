@@ -52,6 +52,7 @@ void loop() {
 }
 
 void receivedCallback( uint32_t from, String &msg ) {
-  node = from;
+  node = msg.c_str();
+  Serial.println(node);
   Serial.printf("bridge: Received from %u msg=%s\n", from, msg.c_str());
 }
